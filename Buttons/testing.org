@@ -1,0 +1,6 @@
+| Type                  | tested Caps    | Pros                | Cons                      | Pressure [N] | bounce time [ms] | Avg Cap Dimension [mm] |   |   |
+|-----------------------+----------------+---------------------+---------------------------+--------------+------------------+------------------------+---+---|
+| MULTIMEC 5G           | Multiple forms | Lot of nice caps    | Too hard to push          |          3.5 | NA               | 12 x 12                |   |   |
+| Marquardt 6425        | Quadrature     | Nice to push        | Cheap clicky sound?       |           NA | NA               | 15 x 15                |   |   |
+| TASTER 3FSH9          | Round          | Low bounce time     | Maybe a bit hard to push  |            3 | 2                | 9.5                    |   |   |
+| UNIMEC 15402(TO TEST) | Rectangular    | Lovely cap material | Available from march 2018 |          2.5 | 10               | 12 x 6                 |   |   |

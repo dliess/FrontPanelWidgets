@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve" x="0px" id="Layer_1" version="1.1" width="0.805556in" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new 0 0 58 50"  viewBox="0 0 58 50" gorn="0" height="0.694444in">
+    <desc >
+        <referenceFile >SSD1306_SPI_128x64Schema.svg</referenceFile>
+    </desc>
+    <g transform="matrix(1 0 0 1 9.5669 40.6845)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >DIN</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 9.5669 33.6142)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >CLK</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 9.5669 26.5439)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >RES</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 9.5669 19.4736)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D/C</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 9.5669 12.4033)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >CS</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 25.0835 41.4521)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >GND</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 25.6655 11)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="3.5" fill="#231F20" font-family="DroidSans" >VCC</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect stroke="#231F20" y="7.201" x="7.272" width="50.399" fill="none" stroke-width="0.7"  height="35.714" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="28.856" x2="28.856" id="connector1pin" y1="7.271" fill="none" stroke-width="1"  y2="0.001" gorn="0.9" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="0.001" x2="7.272" id="connector5pin" y1="10.793" fill="none" stroke-width="1"  y2="10.793" gorn="0.10" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="0.001" x2="7.272" id="connector6pin" y1="17.974" fill="none" stroke-width="1"  y2="17.974" gorn="0.11" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="0.001" x2="7.272" id="connector7pin" y1="25.155" fill="none" stroke-width="1"  y2="25.155" gorn="0.12" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="0.001" x2="7.272" id="connector4pin" y1="32.336" fill="none" stroke-width="1"  y2="32.336" gorn="0.13" stroke-miterlimit="10"/>
+    <line stroke="#231F20" x1="0.001" x2="7.272" id="connector3pin" y1="39.517" fill="none" stroke-width="1"  y2="39.517" gorn="0.14" stroke-miterlimit="10"/>
+    <g transform="matrix(1 0 0 1 21.6719 22.0322)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="4.25" font-family="DroidSans" >OLED 96x64 </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 21.6719 27.1318)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="4.25" font-family="DroidSans" >SSD1331 </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 21.6719 32.2324)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <text font-size="4.25" font-family="DroidSans" >SPI </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line stroke="#231F20" x1="28.873" x2="28.888" id="connector2pin" y1="50.4" fill="none" stroke-width="1"  y2="43.131" gorn="0.18" stroke-miterlimit="10"/>
+</svg>

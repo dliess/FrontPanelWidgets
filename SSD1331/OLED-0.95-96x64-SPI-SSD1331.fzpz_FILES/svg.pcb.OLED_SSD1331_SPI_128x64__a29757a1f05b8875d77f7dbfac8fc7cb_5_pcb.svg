@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve" x="0px" id="Layer_1" version="1.1" width="1.11042in" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new -46.775 16.925 79.95 72.75"  viewBox="0 0 79.95 72.75" gorn="0" height="1.01042in">
+    <desc >
+        <referenceFile >SSD1306_SPI_128x64PCB.svg</referenceFile>
+    </desc>
+    <g transform="translate(46.775,-16.925)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g id="silkscreen"  gorn="0.1.0.0.0.0.0.0">
+                                <line stroke="#FFFFFF" x1="-46.4" x2="32.8" y1="89.299" fill="none" stroke-width="0.75"  y2="89.299"/>
+                                <line stroke="#FFFFFF" x1="32.8" x2="-46.4" y1="17.3" fill="none" stroke-width="0.75"  y2="17.3"/>
+                                <line stroke="#FFFFFF" x1="32.8" x2="32.8" y1="89.299" fill="none" stroke-width="0.75"  y2="17.3"/>
+                                <line stroke="#FFFFFF" x1="-46.4" x2="-46.4" y1="89.299" fill="none" stroke-width="0.75"  y2="17.301"/>
+                            </g>
+                            <g id="copper0"  gorn="0.1.0.0.0.0.0.1">
+                                <g id="copper1"  gorn="0.1.0.0.0.0.0.1.0">
+                                    <circle stroke="#FFBF00" id="connector1pin" cx="14.464" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.0" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector2pin" cx="7.232" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.1" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector3pin" cx="0" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.2" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector4pin" cx="-7.232" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.3" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector5pin" cx="-14.464" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.4" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector6pin" cx="-21.696" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.5" cy="22.916"/>
+                                    <circle stroke="#FFBF00" id="connector7pin" cx="-28.928" fill="none" stroke-width="1.152"  r="1.584" gorn="0.1.0.0.0.0.0.1.0.6" cy="22.916"/>
+                                </g>
+                            </g>
+                            <g id="keepout"  gorn="0.1.0.0.0.0.0.2"/>
+                            <g id="soldermask"  gorn="0.1.0.0.0.0.0.3"/>
+                            <g id="outline"  gorn="0.1.0.0.0.0.0.4"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
