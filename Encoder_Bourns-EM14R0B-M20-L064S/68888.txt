@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"7899497";"";
+"REVISION";"A";"";
+"DESIGN";"EM14 Rotary optical encoder 14mm 32PPR";"";
+"TraceParts.InstanceId";"10-31052016-114069DOMAW9BISTTHOH415F2CIVC5V";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"EM14 Rotary optical encoder 14mm 32PPR";"";
+"REFERENCE";"EM14R1D-R20-L032N";"";
+"TIMESTAMP";"20/05/2016 10:27";"";
+"TraceParts.PartNumber";"10-31052016-114069";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_432964/PSS_433025/PSF_433027/10-31052016-114069";"";
